@@ -1,4 +1,4 @@
-# Hey there! 👋 Welcome to My Portfolio
+#  👋 Welcome
 
 ## 🚀 About Me
 I'm An, an AI & Data Engineer with over 6 years of experience — but now I'm diving into the freelance world on Upwork! I love building smart, innovative AI and data solutions that actually make a difference. Think of me as your go-to person for turning ideas into reality.

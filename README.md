@@ -17,7 +17,7 @@ And honestly? It’s been a blast so far — lots of learning, collaboration, an
 
 ## 🛠️ Skills & Tech I Love
 Here's what I bring to the table:
-```plaintext
+
 - Generative AI, LLMs, NLP, Data Modeling
 - Frameworks: TensorFlow, PyTorch, Hugging Face, NLTK, SpaCy
 - Cloud Platforms: AWS (Bedrock, Lambda), Azure, Google Cloud, Snowflake

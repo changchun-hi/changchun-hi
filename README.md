@@ -1,5 +1,8 @@
 #  👋 Welcome
 
+## ✨ Created for Upwork!
+ Created on May 13, 2025, as part of my Upwork registration...
+
 ## 🚀 About Me
 I'm An, an AI & Data Engineer with over 6 years of experience — but now I'm diving into the freelance world on Upwork! I love building smart, innovative AI and data solutions that actually make a difference. Think of me as your go-to person for turning ideas into reality.
 
@@ -30,7 +33,6 @@ Here's what I bring to the table:
 Thanks for stopping by — I genuinely appreciate your time. Looking forward to working together and creating something awesome!
 
 
-## ✨ Created for Upwork!
- Created on May 13, 2025, as part of my Upwork registration...
+
 
 
